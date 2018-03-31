@@ -1,10 +1,8 @@
-title: Joe Cool's Online Biography
+title: Dian Fajar
 
-email: hello@joecool.com
-github_url: https://github.com/joecool
-linkedin_url: https://linkedin.com/in/joecool
-medium_url: https://medium.com/joecool
-twitter_url: https://twitter.com/joecool
+email: mail@dianfajar.my.id
+github_url: https://github.com/dianfajar
+twitter_url: https://twitter.com/skizio101
 
 exclude: screenshots, LICENSE, README.md
 markdown: kramdown
