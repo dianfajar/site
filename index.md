@@ -4,7 +4,7 @@ layout: default
 
 # Dian Fajar
 
-### I'm a _digital thought leader_ with a passion for _revolutionizing the human condition_
+### I like to make cool and creative designs. My design stash is always full of refreshing ideas.Feel free to take a look around my profile.
 
 Bacon ipsum dolor amet salami leberkas pig short loin porchetta frankfurter cupim
 drumstick meatball tongue alcatra. Turkey [prosciutto capicola](#) alcatra corned beef.
